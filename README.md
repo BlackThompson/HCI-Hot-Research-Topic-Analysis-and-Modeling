@@ -16,4 +16,4 @@ I would like to express my gratitude to my co-authors for their valuable contrib
 
 - [Shijuan Lin](https://github.com/Littleflowerlsj) 
 - [Xin Tan](Co_Author_2_Profile_URL)
-- [Liang Wang](Co_Author_2_Profile_URL)
+- [Liang Wang](https://github.com/RaidonWong)
